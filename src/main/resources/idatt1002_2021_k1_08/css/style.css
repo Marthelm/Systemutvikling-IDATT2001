@@ -1,0 +1,101 @@
+#wrapper{
+    -fx-background-color: black;
+}
+.button{
+    -fx-background-radius: 40;
+    -fx-background-color: grey;
+    -fx-text-fill: black;
+}
+#pane_left{
+    -fx-background-color: white;
+}
+#pane_middle{
+    -fx-background-color: #4C96D7;
+}
+#pane_right{
+    -fx-background-color: white
+}
+#label_header_left{
+    -fx-background-color:#075075;
+}
+#completedTaskLable{
+    -fx-prompt-text-fill:  white;
+}
+#taskOverDueLabel{
+    -fx-background-color: white;
+}
+#label_dow_left{
+    -fx-background-color: #075075;
+}
+#label_header_middle {
+    -fx-background-color: #3C866F;
+}
+#label_header_right{
+    -fx-background-color: #075075;
+}
+#task_information_label{
+    -fx-background-color: black;
+}
+#add_task_button{
+-fx-background-color: white;
+}
+#menuButton{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+#edit_task_button{
+    -fx-background-color: #adadad;
+}
+
+#task_list{
+    -fx-background-color: #4C96D7;
+}
+
+
+#anchor_add_task{
+    -fx-background-color: #adadad;
+    -fx-background-radius: 40;
+    -fx-text-fill: black;
+}
+
+#delete_task_button{
+    -fx-background-color: #adadad;
+}
+
+#datePicker{
+
+}
+#usernameTextField{
+    -fx-text-fill: black;
+}
+.label{
+}
+.text-field{
+    -fx-alignment: center;
+    -fx-font-size: 14;
+}
+#priorityChoiceBox{
+    selected-box-color: black;
+    -fx-background-color: white;
+}
+#taskDisplayAnchor{
+    }
+#complete_task_button{
+    -fx-background-color: #adadad;
+}
+#edit_task_button{
+    -fx-background-color: #adadad;
+}
+#saveEditedTask{
+    -fx-background-color: #adadad;
+}
+#help_button{
+    -fx-background-color: #adadad;
+}
+#viewAllTasksLeftButton{
+    -fx-background-color: #adadad;
+}
+#help_button{
+    -fx-background-color: white;
+}
